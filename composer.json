@@ -1,0 +1,6 @@
+{
+    "require": {
+        "robrichards/xmlseclibs": "^3.1",
+        "spatie/array-to-xml": "^2.17"
+    }
+}

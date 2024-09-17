@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DPS versao="1.00"
+    xmlns="http://www.sped.fazenda.gov.br/nfse">
+    <infDPS Id="DPS530010820344060400014700003000000000000009">
+        <tpAmb>1</tpAmb>
+        <dhEmi>2024-09-10T05:54:16-03:00</dhEmi>
+        <verAplic>rvcad</verAplic>
+        <serie>00003</serie>   ****  5 ALGARISMOS
+        <nDPS>9</nDPS>
+        <dCompet>2024-09-10</dCompet>
+        <tpEmit>1</tpEmit>
+        <cLocEmi>5300108</cLocEmi>
+        <prest>
+            <CNPJ>00000000000000</CNPJ>
+            <fone>00000000000</fone>
+            <email>TESTE@TESTE.COM.BR</email>
+            <regTrib>
+                <opSimpNac>2</opSimpNac>
+                <regEspTrib>0</regEspTrib>
+            </regTrib>
+        </prest>
+        <toma>
+            <CPF>00000000000</CPF>
+            <xNome>RODOLFO AGUIA NETO</xNome>
+            <end>
+                <endNac>
+                    <cMun>5300108</cMun>
+                    <CEP>70740512</CEP>
+                </endNac>
+                <xLgr>Quadra SCLRN 706 Bloco B</xLgr>
+                <nro>21</nro>
+                <xCpl>SALA</xCpl>
+                <xBairro>Asa Norte</xBairro>
+            </end>
+            <fone>00000000000</fone>
+            <email>TESTE@TESTE.COM.BR</email>
+        </toma>
+        <serv>
+            <locPrest>
+                <cLocPrestacao>5300108</cLocPrestacao>
+            </locPrest>
+            <cServ>
+                <cTribNac>010101</cTribNac>  ****  CAMPO OBRIGATORIO
+                <xDescServ>Sistema Web Emissor de Nf-e - </xDescServ>
+            </cServ>
+        </serv>
+        <valores>
+            <vServPrest>
+                <vServ>0.01</vServ>
+            </vServPrest>
+            <trib>
+                <tribMun>
+                    <tribISSQN>1</tribISSQN>
+                    <tpRetISSQN>1</tpRetISSQN>
+                </tribMun>
+                <totTrib>
+                    <indTotTrib>0</indTotTrib>
+                </totTrib>
+            </trib>
+        </valores>
+    </infDPS>
+</DPS>
